@@ -1,1 +1,5 @@
-
+ ATmega328 is commonly used in many projects and autonomous systems where a simple, low-powered, low-cost micro-controller is needed. 
+ Perhaps the most common implementation of this chip is on the popular Arduino development platform, namely the Arduino Uno,
+ Arduino Pro Mini and Arduino Nano models.The ATMEGA328P-PN is a popular microcontroller due to it being a major component in the Arduino board products.
+ The ATMEGA328P-PN is the 8-bit RISC heart of the Arduino Uno and Nano, with a maximum clock frequency of 20MHz, 32KB program FLASH, and 2KB of RAM.
+ LED stands for light emitting diode. LED lighting products produce light up to 90% more efficiently than incandescent light bulbs. How do they work? An electrical current passes through a microchip,  which illuminates the tiny light sources we call LEDs and the result is visible light.
