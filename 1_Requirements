@@ -1,4 +1,4 @@
-Requirements
+Requirements:-
 ATmega 328 pin
 8 blinking leds
 bread board
@@ -6,6 +6,6 @@ jumper wires
 relay unit
 fixed voltage
 audio out
-software requirements
+software requirements:-
 atmel for programming
 simulIDE for project simulation
